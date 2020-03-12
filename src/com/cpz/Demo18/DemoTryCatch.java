@@ -14,6 +14,21 @@ public class DemoTryCatch {
         }finally {
             System.out.println("资源释放");
         }
+        int a = getA();
+        System.out.println(a);
+    }
+
+    private static int getA() {
+        int a=10;
+        //如果finally有return语句，永远返回finally的结果，避免该情况。
+        try {
+            return a;
+        }catch (Exception e){
+            System.out.println(e);
+        }finally {
+            a=100;
+            return a;
+        }
     }
 
     public static void redFile(String filename)throws IOException{
@@ -22,4 +37,5 @@ public class DemoTryCatch {
         }
         System.out.println("正在读取文件。。。");
     }
+
 }
