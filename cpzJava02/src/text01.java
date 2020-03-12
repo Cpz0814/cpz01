@@ -1,6 +1,5 @@
 public class text01 {
     public static void main(String[] args) {
-        char a = 'c';
         String b = "chen";
         System.out.println("我的名字是"+b);
 
