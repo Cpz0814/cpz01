@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7af2ea31-549e-4f7f-b1f4-fa7e8d6dae5f" name="Default Changelist" comment="666666">
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/DemoRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/DemoThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/MyRunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/MyRunnableImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/MyThread.java" afterDir="false" />
+    <list default="true" id="7af2ea31-549e-4f7f-b1f4-fa7e8d6dae5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/DemoTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/mysy/DemoTicket1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/mysy/RunnableImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/DemoTicket2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/RunnableImpl2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,33 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/DemoTicket2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/DemoRunnable.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/RunnableImpl2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="322">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding>
-                <element signature="e#720#925#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/MyRunnableImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/MyRunnableImpl2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -75,13 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo05/MyMains.java" />
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo05/DemoInterFace.java" />
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo06/Zi.java" />
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo06/Fu.java" />
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo07/MyinterImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo07/Myinterimplss.java" />
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo07/DemoMain.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate02.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate03.java" />
@@ -126,12 +110,19 @@
         <option value="$PROJECT_DIR$/src/com/cpz/Demo19/MyRunnableImpl.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo19/MyRunnableImpl2.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo19/DemoRunnable.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/DemoTicket.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/mysy/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/mysy/DemoTicket1.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/mysy/RunnableImpl1.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/RunnableImpl1.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/RunnableImpl2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="886" />
-    <option name="y" value="112" />
+    <option name="x" value="335" />
+    <option name="y" value="37" />
     <option name="width" value="1044" />
     <option name="height" value="932" />
   </component>
@@ -168,6 +159,14 @@
               <item name="cpz" type="462c0819:PsiDirectoryNode" />
               <item name="Demo19" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cpzJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpzJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpz" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo19" type="462c0819:PsiDirectoryNode" />
+              <item name="mysy2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,7 +177,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/cpz/Demo19/mysy2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -198,6 +197,8 @@
       <recent name="com.cpz.Demo19" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\HTMLDate\cpzJava\src\com\cpz\Demo19\mysy2" />
+      <recent name="F:\HTMLDate\cpzJava\src\com\cpz\Demo19\mysy" />
       <recent name="F:\HTMLDate\cpzJava\libs" />
     </key>
   </component>
@@ -213,20 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoRunnable">
-    <configuration name="DemoRegisterException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo18.DemoRegisterException" />
-      <module name="cpzJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cpz.Demo18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DemoTicket2">
     <configuration name="DemoRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cpz.Demo19.DemoRunnable" />
       <module name="cpzJava" />
@@ -253,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo18.DemoThrows" />
+    <configuration name="DemoTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo19.DemoTicket" />
       <module name="cpzJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cpz.Demo18.*" />
+          <option name="PATTERN" value="com.cpz.Demo19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +254,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo18.DemoTryCatch" />
+    <configuration name="DemoTicket1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo19.mysy.DemoTicket1" />
       <module name="cpzJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cpz.Demo18.*" />
+          <option name="PATTERN" value="com.cpz.Demo19.mysy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTicket2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo19.mysy2.DemoTicket2" />
+      <module name="cpzJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cpz.Demo19.mysy2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DemoThrows" />
-      <item itemvalue="Application.DemoTryCatch" />
-      <item itemvalue="Application.DemoRegisterException" />
       <item itemvalue="Application.DemoThread" />
       <item itemvalue="Application.DemoRunnable" />
+      <item itemvalue="Application.DemoTicket" />
+      <item itemvalue="Application.DemoTicket1" />
+      <item itemvalue="Application.DemoTicket2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoTicket2" />
+        <item itemvalue="Application.DemoTicket1" />
+        <item itemvalue="Application.DemoTicket" />
         <item itemvalue="Application.DemoRunnable" />
         <item itemvalue="Application.DemoThread" />
-        <item itemvalue="Application.DemoRegisterException" />
-        <item itemvalue="Application.DemoTryCatch" />
-        <item itemvalue="Application.DemoThrows" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +321,7 @@
       <workItem from="1583746376762" duration="959000" />
       <workItem from="1583804424061" duration="8948000" />
       <workItem from="1583891990846" duration="9324000" />
-      <workItem from="1583977006227" duration="8901000" />
+      <workItem from="1583977006227" duration="12078000" />
     </task>
     <task id="LOCAL-00001" summary="666666">
       <created>1583919793062</created>
@@ -343,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583980361043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="666666">
+      <created>1583987843520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583987843520</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89605000" />
+    <option name="totallyTimeSpent" value="92782000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,10 +367,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="886" y="112" width="1044" height="932" extended-state="0" />
+    <frame x="335" y="37" width="1044" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.2798354" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.2798354" />
       <window_info id="Structure" order="1" sideWeight="0.5026178" side_tool="true" weight="0.36745688" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,57 +440,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="666666" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo05/MyAbsImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo05/MyMains.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo07.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo06/Fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo07/MyinterImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo07/Myinterimplss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo07/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -901,11 +858,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/DemoRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="264">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="e#720#925#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/DemoTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy/DemoTicket1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy/RunnableImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/DemoTicket2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo19/mysy2/RunnableImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
