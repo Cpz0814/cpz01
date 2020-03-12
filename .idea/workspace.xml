@@ -1,146 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7af2ea31-549e-4f7f-b1f4-fa7e8d6dae5f" name="Default Changelist" comment="666666">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpzJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpzJava02/cpzJava02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpzJava02/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpzJava02/src/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpzJava02/src/zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/jsoup-1.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/META-INF/cpzJava.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo01/DemoRandom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo01/DemoScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo02/DemoMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo02/DemoMath02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo03/DemoExtents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo03/Ff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo03/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo04/Manger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo04/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo04/Mymain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo04/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo05/DemoInterFace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo05/MyAbsImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo05/MyMains.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo06/DemoMulti.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo06/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo06/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo07/DemoMain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo07/DemoMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo07/MyinterImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo07/Myinterimplss.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo08/DemoDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo08/DemoDate02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo08/DemoDate03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo09/StringBuders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo09/SystemDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo10/DemoCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo11/Demo_NBfor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo11/Demo_iterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/Demo01Generic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/Demo02Generic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/Demo_Generic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/GenericClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/GenericInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/GenericInterface02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/GenericInterfaceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/GenericInterfaceImpl02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo12/Generic_Method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo13/DouDiZhu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo14/DemoLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo14/DemoSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo14/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo15/DemoSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo15/DemoSort2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo15/DemoSort2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo15/DemoSort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo15/DemoVarArgs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo15/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo16/DemoEntrySet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo16/DemoMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo16/DemoMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo16/DemoPersonMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo16/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo17/DemoDebug.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo17/DemoDouDIZhu02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo18/DemoThrow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/Demo18/DemoThrows.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/chen01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/chen01/Preview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/jsoup/JsoupDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/com/cpz/xml/student.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava/studen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava02/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava02/DemoMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cpzJava02/zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo01/DemoRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo01/DemoScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo02/DemoMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo02/DemoMath02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo03/DemoExtents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo03/Ff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo03/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo04/Manger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo04/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo04/Mymain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo04/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo05/DemoInterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo05/MyAbsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo05/MyMains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo06/DemoMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo06/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo06/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo07/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo07/MyinterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo07/Myinterimplss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo08/DemoDate03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo09/StringBuders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo09/SystemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo10/DemoCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo11/Demo_NBfor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo11/Demo_iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/Demo01Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/Demo02Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/Demo_Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/GenericInterface02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/GenericInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/GenericInterfaceImpl02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo12/Generic_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo13/DouDiZhu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo14/DemoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo14/DemoSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo14/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo15/DemoSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo15/DemoSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo15/DemoVarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo15/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo16/DemoEntrySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo16/DemoMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo16/DemoMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo16/DemoPersonMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo16/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo17/DemoDebug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo17/DemoDouDIZhu02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/chen01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/chen01/Preview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/jsoup/JsoupDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cpz/xml/student.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studen.xml" afterDir="false" />
+    <list default="true" id="7af2ea31-549e-4f7f-b1f4-fa7e8d6dae5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/cpz/Demo18/DemoTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,23 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="348">
+              <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,10 +33,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo09/StringBuders.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo18/DemoTryCatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="377">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cpz/Demo03/Ff.java" />
         <option value="$PROJECT_DIR$/cpzJava02/src/Animal.java" />
         <option value="$PROJECT_DIR$/cpzJava02/src/zi.java" />
         <option value="$PROJECT_DIR$/cpzJava02/src/DemoMain.java" />
@@ -262,12 +114,13 @@
         <option value="$PROJECT_DIR$/src/com/cpz/Demo17/DemoDouDIZhu02.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrow.java" />
         <option value="$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrows.java" />
+        <option value="$PROJECT_DIR$/src/com/cpz/Demo18/DemoTryCatch.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="y" value="94" />
+    <option name="x" value="883" />
+    <option name="y" value="115" />
     <option name="width" value="1044" />
     <option name="height" value="932" />
   </component>
@@ -278,6 +131,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,11 +139,28 @@
               <item name="cpzJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="cpzJava" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cpzJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpzJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpzJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpzJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpzJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpzJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpz" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo18" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoThrows">
+  <component name="RunManager" selected="Application.DemoTryCatch">
     <configuration name="DemoDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cpz.Demo17.DemoDebug" />
       <module name="cpzJava" />
@@ -348,19 +219,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cpz.Demo17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo16.DemoMapTest" />
-      <module name="cpzJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cpz.Demo16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,20 +252,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cpz.Demo18.DemoTryCatch" />
+      <module name="cpzJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cpz.Demo18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DemoMapTest" />
       <item itemvalue="Application.DemoDebug" />
       <item itemvalue="Application.DemoDouDIZhu02" />
       <item itemvalue="Application.DemoThrow" />
       <item itemvalue="Application.DemoThrows" />
+      <item itemvalue="Application.DemoTryCatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoTryCatch" />
         <item itemvalue="Application.DemoThrows" />
         <item itemvalue="Application.DemoThrow" />
         <item itemvalue="Application.DemoDouDIZhu02" />
         <item itemvalue="Application.DemoDebug" />
-        <item itemvalue="Application.DemoMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -434,17 +305,27 @@
       <workItem from="1583716616906" duration="8745000" />
       <workItem from="1583746376762" duration="959000" />
       <workItem from="1583804424061" duration="8948000" />
-      <workItem from="1583891990846" duration="8535000" />
+      <workItem from="1583891990846" duration="9324000" />
+      <workItem from="1583977006227" duration="410000" />
     </task>
+    <task id="LOCAL-00001" summary="666666">
+      <created>1583919793062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583919793062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79915000" />
+    <option name="totallyTimeSpent" value="81114000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="94" width="1044" height="932" extended-state="0" />
+    <frame x="883" y="115" width="1044" height="932" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.27263373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.2798354" />
       <window_info id="Structure" order="1" sideWeight="0.5026178" side_tool="true" weight="0.36745688" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,13 +395,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="666666" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cpzJava02/src/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo04/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -971,31 +845,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo09/StringBuders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo18/DemoThrows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="348">
+          <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo09/StringBuders.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cpz/Demo18/DemoTryCatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="377">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
