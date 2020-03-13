@@ -17,8 +17,11 @@ public class text01 {
         System.out.println(s!=v);
         System.out.println(s>=v);
         System.out.println(s<=v);
+        System.out.println("=============");
 
-
+        int age = 20;
+        int money = 1;
+        System.out.println(age>=18 && money>=5);
 
     }
 }
