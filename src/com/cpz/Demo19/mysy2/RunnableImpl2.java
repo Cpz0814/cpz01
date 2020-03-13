@@ -5,12 +5,12 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class RunnableImpl2 implements Runnable {
     private static int ticket=100;
-    Lock l=new ReentrantLock();
+    Lock l=new ReentrantLock();//创建锁对象
     @Override
     public void run() {
         boolean dd = true;
         while (dd) {
-            l.lock();
+            l.lock();//获取锁
             if (ticket > 0) {
                 try {
                     Thread.sleep(100);
@@ -24,7 +24,7 @@ public class RunnableImpl2 implements Runnable {
                     dd = false;
                 }
             }
-            l.unlock();
+            l.unlock();//释放锁
         }
     }
 }
